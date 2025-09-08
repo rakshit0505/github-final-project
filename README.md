@@ -9,7 +9,7 @@ This project is part of our journey of moving from **SVN → Git** and embracing
 Simple Interest is calculated as:
 
 \[
-SI = P \times T \times R
+SI = P * T * R
 \]
 
 Where:  
